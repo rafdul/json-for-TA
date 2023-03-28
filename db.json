@@ -1,0 +1,23 @@
+{
+    "products": [
+        {"id": 10190, "specificOptionalAttributes": [], "furnitureType": "Sofa"},
+        {"id": 12471, "specificOptionalAttributes": [], "furnitureType": "Grand Sofa"},
+        {"id": 12470, "specificOptionalAttributes": [], "furnitureType": "Long Sofa"},
+        {"id": 12460, "specificOptionalAttributes": [], "furnitureType": "Mid Size Sofa"},
+        {"id": 12429, "specificOptionalAttributes": [], "furnitureType": "Chair"},
+        {"id": 12456, "specificOptionalAttributes": [], "furnitureType": "Chair & Half"},
+        {"id": 12411, "specificOptionalAttributes": [], "furnitureType": "Loveseat"},
+        {"id": 12457, "specificOptionalAttributes": [], "furnitureType": "Long Loveseat"},
+        {"id": 10825, "specificOptionalAttributes": [], "furnitureType": "Ottoman"},
+        {"id": 12479, "specificOptionalAttributes": [], "furnitureType": "Ottoman & Half"},
+        {"id": 12278, "specificOptionalAttributes": [], "furnitureType": "Sectional"}
+    ],
+    "stepWithPermanentActiveNext": [],
+    "globalOptionalAttributes": ["ta_nailheads", "ta_nailheads_finish", "ta_tufting", "ta_throw_pillows", "ta_additional_2_18_tp_cover", "ta_additional_2_20_tp_cover"],
+    "globalFurnitureType": "",
+    "pdfDocumetation": [
+        {"stepSlug": "ta_choose_your_cover", "url": "https://libs.intiaro.com/integrations/theodorealexander/Tailor Fit Finishing.pdf"},
+        {"stepSlug": "ta_choose_your_seat_style", "url": "https://libs.intiaro.com/integrations/theodorealexander/Cushions-and-Back-Pillows.pdf"},
+        {"stepSlug": "ta_choose_your_base", "url": "https://libs.intiaro.com/integrations/theodorealexander/Base options.pdf"}
+    ]
+}
